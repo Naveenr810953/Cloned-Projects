@@ -5,7 +5,7 @@ const stories = [
     { username: "fitness_guru", image: "https://randomuser.me/api/portraits/women/45.jpg" },
     { username: "tech_geek", image: "https://randomuser.me/api/portraits/men/55.jpg" },
     { username: "art_creator", image: "https://randomuser.me/api/portraits/women/67.jpg" },
-    { username: "music_producer", image: "https://randomuser.me/api/portraits/men/78.jpg" },
+    { username: "music_producer", image: "https://randomuser.me/api/portraits/men/78.jpg" },  
     { username: "book_worm", image: "https://randomuser.me/api/portraits/women/89.jpg" },
 ];
    
