@@ -7,7 +7,7 @@ const stories = [
     { username: "art_creator", image: "https://randomuser.me/api/portraits/women/67.jpg" },
     { username: "music_producer", image: "https://randomuser.me/api/portraits/men/78.jpg" },   
     { username: "book_worm", image: "https://randomuser.me/api/portraits/women/89.jpg" },
-];
+]; 
         
 // Sample data for posts
 const posts = [
