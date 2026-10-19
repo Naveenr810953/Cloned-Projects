@@ -1,5 +1,5 @@
 // Sample data for stories
-const stories = [
+const stories = [ 
     { username: "travel_lover", image: "https://randomuser.me/api/portraits/women/23.jpg" },
     { username: "foodie_adventures", image: "https://randomuser.me/api/portraits/men/32.jpg" },
     { username: "fitness_guru", image: "https://randomuser.me/api/portraits/women/45.jpg" },
